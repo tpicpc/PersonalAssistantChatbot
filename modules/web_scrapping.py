@@ -269,7 +269,7 @@ def sendWhatsapp(phone_no='',message=''):
 	k = Controller()
 	k.press(Key.enter)
 
-def email(rec_email=None, text="Hello, It's F.R.I.D.A.Y. here...", sub='F.R.I.D.A.Y.'):
+def email(rec_email=None, text="Hello, It's PersonalAssinstant. here...", sub='PersonalAssinstant.'):
 	USERNAME = os.getenv('MAIL_USERNAME') # email address
 	PASSWORD = os.getenv('MAIL_PASSWORD')
 	if not USERNAME or not PASSWORD:

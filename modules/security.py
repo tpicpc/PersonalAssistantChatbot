@@ -169,7 +169,7 @@ def raise_frame(frame):
 
 
 root = Tk()
-root.title('F.R.I.D.A.Y.')
+root.title('PersonalAssinstant.')
 w_width, w_height = 350, 600
 s_width, s_height = root.winfo_screenwidth(), root.winfo_screenheight()
 x, y = (s_width/2)-(w_width/2), (s_height/2)-(w_height/2)
@@ -339,7 +339,7 @@ Button(root3, text='         Submit         ', font=('Arial Bold', 15), bg='#019
 
 userPIC = Label(root4, bg=background, image=avtr1)
 userPIC.pack(pady=(40, 10))
-usernameLbl = Label(root4, text="Roshan Kumar", font=('Arial Bold',15), bg=background, fg='#85AD4F')
+usernameLbl = Label(root4, text="TPI CPC Team", font=('Arial Bold',15), bg=background, fg='#85AD4F')
 usernameLbl.pack(pady=(0, 70))
 
 Label(root4, text="Your account has been successfully activated!", font=('Arial Bold',15), bg=background, fg='#303E54', wraplength=300).pack(pady=10)

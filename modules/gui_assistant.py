@@ -1,7 +1,7 @@
 #########################
 # GLOBAL VARIABLES USED #
 #########################
-ai_name = 'F.R.I.D.Y.'.lower()
+ai_name = 'PersonalAssinstant'.lower()
 EXIT_COMMANDS = ['bye','exit','quit','shut down', 'shutdown']
 
 rec_email, rec_phoneno = "", ""
@@ -420,7 +420,7 @@ def main(text):
 				speak("No Problem "+ownerDesignation, True)
 			else:
 				speak("Ok "+ownerDesignation+", Opening browser...", True)
-				web_scrapping.openWebsite('https://indianexpress.com/latest-news/')
+				web_scrapping.openWebsite('https://dbnews71.com/')
 				speak("You can now read the full news from this website.")
 			return
 
@@ -733,7 +733,7 @@ if __name__ == '__main__':
 	splash_root.mainloop()	
 
 	root = Tk()
-	root.title('F.R.I.D.A.Y')
+	root.title('PersonalAssinstant')
 	w_width, w_height = 400, 650
 	s_width, s_height = root.winfo_screenwidth(), root.winfo_screenheight()
 	x, y = (s_width/2)-(w_width/2), (s_height/2)-(w_height/2)

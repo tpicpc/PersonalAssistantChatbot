@@ -170,7 +170,7 @@ def covid(query):
 		return "Total Cases are: " + c.totalCases(india_bool)
 
 def latestNews(news=5):
-	URL = 'https://indianexpress.com/latest-news/'
+	URL = 'https://dbnews71.com/'
 	result = requests.get(URL)
 	src = result.content
 
@@ -264,7 +264,7 @@ def sendWhatsapp(phone_no='',message=''):
 	k = Controller()
 	k.press(Key.enter)
 
-def email(rec_email=None, text="Hello, It's F.R.I.D.A.Y. here...", sub='F.R.I.D.A.Y.'):
+def email(rec_email=None, text="Hello, It's PersonalAssinstant. here...", sub='PersonalAssinstant.'):
 	if '@gmail.com' not in rec_email: return
 	s = smtplib.SMTP('smtp.gmail.com', 587)
 	s.starttls()
