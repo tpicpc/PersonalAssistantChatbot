@@ -169,7 +169,7 @@ def covid(query):
 		return "Total Cases are: " + c.totalCases(india_bool)
 
 def latestNews(news=5):
-	URL = 'https://indianexpress.com/latest-news/'
+	URL = 'https://dbnews71.com'
 	result = requests.get(URL)
 	src = result.content
 
