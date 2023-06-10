@@ -1,15 +1,11 @@
 # PersonalAssistant  
 
-[![Made By](https://img.shields.io/badge/Made%20by-Roshan-blue.svg)](https://github.com/roshan9419) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/roshan9419) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/roshan9419) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/roshan9419) [![Stars](https://img.shields.io/github/stars/roshan9419/PersonalAssistantChatbot.svg?style=flat&color=orange)](https://github.com/roshan9419) [![Top Language](https://img.shields.io/github/languages/top/roshan9419/PersonalAssistantChatbot.svg?style=flat&color=informational)](https://github.com/roshan9419) [![Issues](https://img.shields.io/github/issues/roshan9419/PersonalAssistantChatbot.svg)](https://github.com/roshan9419) [![PR](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/roshan9419)
+ [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tpicpc) [![Top Language](https://img.shields.io/github/languages/top/tpicpc/PersonalAssistantChatbot.svg?style=flat&color=informational)](https://github.com/tpicpc) 
 <br>
 
 *It is an Personal Assistant, capable to perform many tasks with some unique features, that you haven'e seen yet....*  
 
 ![alt text](thumbnail.jpg)
-
-
-#### Watch the demo here 👇👇👇
-https://www.youtube.com/watch?v=tbw7VyBGSw0  
 
 
 ## Features / Tasks it can perform:  
