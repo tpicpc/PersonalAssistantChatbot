@@ -242,8 +242,6 @@ https://drive.google.com/file/d/1h-v6Ub5E2BMy6LTgl398lmoTlhr0KWvj/view?usp=shari
 
 ## Authors
 
- **devSahinur** 🧐 
- **DSwithSiam** 🧐 
 * [Sahinur Islam](https://github.com/devSahinur)
 * [Md Masipul Islam Siam](https://github.com/DSwithSiam)
 
