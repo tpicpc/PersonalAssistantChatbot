@@ -242,8 +242,16 @@ https://drive.google.com/file/d/1h-v6Ub5E2BMy6LTgl398lmoTlhr0KWvj/view?usp=shari
 
 ## Authors
 
-* [Sahinur Islam](https://github.com/devSahinur)
-* [Md Masipul Islam Siam](https://github.com/DSwithSiam)
+<table>
+  <tr>
+    <!-- <td align="center"><a href="https://github.com/IAMLEGION98"><img src="https://avatars2.githubusercontent.com/u/20149005?v=4" width="100px;" alt=""/><br /><sub><b>Mubin</b></sub></a><br /><a href="https://github.com/atapas/add-copyright/commits?author=IAMLEGION98" title="Tests">⚠️</a></td> -->
+    <td align="center"><a href="https://sahinur.netlify.app"><img src="https://avatars.githubusercontent.com/u/68515168?v=4" width="100px;" alt=""/><br /><sub><b>Sahinur Islam</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/prepaka"><img src="https://avatars.githubusercontent.com/u/61067444?v=4" width="100px;" alt=""/><br /><sub><b>Md Masipul Islam Siam</b></sub></a><br /><a href="#"" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- * [Sahinur Islam](https://github.com/devSahinur)
+* [Md Masipul Islam Siam](https://github.com/DSwithSiam) -->
 
 See also the list of [contributors](https://github.com/tpicpc/PersonalAssistantChatbot/graphs/contributors) who have participated in this project.
 
